@@ -2,6 +2,7 @@ num1 = 20
 
 num2 = 30
 
-result = num1+num2
+num3 = 40
+result = num1+num2+num3
 
 print(result)
